@@ -1,0 +1,21 @@
+.blockTitle {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial;
+  line-height: 1.2;
+  letter-spacing: 5px;
+  font-weight: 400;
+  font-size: 30px;
+  text-transform: capitalize;
+  margin-bottom: 30px;
+}
+.line {
+  height: 1px;
+  width: 55px;
+  margin: 30px 0;
+/*  background-color: #e9548d;*/
+}
+.title {
+  text-align: center;
+}

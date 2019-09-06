@@ -1,0 +1,162 @@
+.main {
+
+  min-height: 100vh;
+/*  background-color: #edfb9c;*/
+  display: flex;
+  justify-content: center;
+  position: relative;
+  /*padding: 30px 0*/;
+}
+.container {
+  position: absolute;
+  top: 15%;
+  width: 80%;
+  height: 70%;
+/*  border: 1px solid;*/
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+ /* width: 80%;
+  border: 1px solid;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;*/
+}
+/*.inner {
+  position: absolute;
+  top: 15%;
+  width: 80%;
+  border: 1px solid;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}*/
+
+.greeting {
+  display: flex;
+  flex-direction: column;
+  padding: 0 50px;
+}
+/*.greeting span:nth-child(1) {
+font-size: 40px;
+}*/
+
+.greeting {
+  font-size: 35px;
+  font-family: Arial;
+  letter-spacing: 3px;
+  /*font-weight: 700;*/
+  /*font-stretch: normal;*/
+  /*line-height: 1.1;*/
+  /*position: relative;
+  z-index: 0;*/
+}
+/*.greeting
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  background-color: gold;
+  bottom: 0px;*/
+  /*z-index: -1;
+}*/
+.myPhoto {
+  width: 25%;
+  position: relative;
+  justify-content: center;
+  /*background-color: #569a7d;*/
+  z-index: 0;
+}
+
+.myPhoto::before {
+  position: absolute;
+  content: ' ';
+  box-sizing: border-box;
+  left: 20px;
+  top: -20px;
+  border: 3px solid #7100ff;
+  width: 100%;
+  height: 100%;
+z-index: -1;
+  animation: fade 5s;
+
+
+}
+.image {
+  width: 100%;
+  /*margin-top: 50px;*/
+  background-color: #f2f2f2;
+}
+.image:hover {
+  transform: scale(1.1, 1.1);
+}
+/*.photo .image:before {
+  content: '';
+  position: absolute;
+  height: 430px;
+  width: 300px;
+  border: 5px; solid-color: #ea548d;
+  left: 15px;
+  top: -15px;
+  z-index: -1;
+}
+*/
+
+
+@media screen and (max-width: 1050px){
+  .greeting {
+    font-size: 20px;
+    font-family: Arial;
+    letter-spacing: 1px;
+  }
+  .myPhoto {
+    width: 25%;
+    justify-content: center;
+
+  }
+}
+@media screen and (max-width: 1000px){
+  .greeting {
+    font-size: 20px;
+    font-family: Arial;
+    letter-spacing: 1px;
+  }
+  .myPhoto {
+    width: 30%;
+    justify-content: center;
+
+  }
+}
+@media screen and (max-width: 473px) {
+  .greeting {
+    font-size: 20px;
+    font-family: Arial;
+    letter-spacing: 1px;
+  }
+
+  .myPhoto {
+    width: 50%;
+    justify-content: center;
+  }
+  }
+
+
+@keyframes fade {
+  0% {
+    opacity: 0
+  }
+  20% {
+    opacity: 0.1
+  }
+  50% {
+    opacity: 0.25
+  }
+  100%{
+    opacity: 1
+  }
+
+
+}

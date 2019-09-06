@@ -1,0 +1,13 @@
+.item {
+    font-family: 'Arial';
+    color: #e6e6e6;
+    font-size: 28px;
+    text-decoration: none;
+
+}
+
+.item:hover {
+   /* background: #3405d7;*/
+    color: whitesmoke;
+    text-decoration: none;
+}
