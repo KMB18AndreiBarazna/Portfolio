@@ -15,7 +15,7 @@ const Footer = () => {
                         src={'https://android-android.ru/upload/iblock/0d3/16.jpg'}/>
                 <Links href={'https://t.me/Andrei_Barazna'} src={'https://telegram.org/img/t_logo.png'}/>
                 <Links href={'https://vk.com/'}
-                        src={'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/80px-VK.com-logo.svg.png'}/>
+                        src={'https://image.flaticon.com/icons/png/512/124/124029.png'}/>
             </div>
             <div className={styles.rights}>
                 {/*©*/} {/*&copy;*/} &#169; 2019 All rights reserved
