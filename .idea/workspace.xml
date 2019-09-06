@@ -11,6 +11,14 @@
       <change afterPath="$PROJECT_DIR$/src/footer.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/HTML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/JS_ForKids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/JavaScript_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/MyPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Todolist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/net2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/react_100x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/react_70.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/item.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/item.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/links.js" afterDir="false" />
@@ -108,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -308,12 +316,12 @@
       <workItem from="1567675282578" duration="6189000" />
       <workItem from="1567699934919" duration="65000" />
       <workItem from="1567703621508" duration="3083000" />
-      <workItem from="1567749750623" duration="984000" />
+      <workItem from="1567749750623" duration="1274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178942000" />
+    <option name="totallyTimeSpent" value="179232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -691,7 +699,7 @@
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
