@@ -6,7 +6,7 @@ import './App.css';
 
 function Main() {
     return (
-        <div className={styles.main} id={"main"}>git
+        <div className={styles.main} id={"main"}>
             <div className={styles.container}>
                 <div className={styles.myPhoto}>
                     <Fade left duration={3000} delay={2000}>
