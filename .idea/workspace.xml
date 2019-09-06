@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a82685-1a6a-4e0f-b501-5941b79b6353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blockTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blockTitle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contacts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/HTML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/JS_ForKids.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/JavaScript_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/MyPhoto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Todolist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/net2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/react_100x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/react_70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/item.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/links.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navMenu.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skill-element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skills.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slogan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slogan.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -115,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <state relative-caret-position="459">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -197,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="669" />
     <option name="y" value="86" />
     <option name="width" value="899" />
@@ -267,6 +227,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -277,6 +247,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -316,29 +291,36 @@
       <workItem from="1567675282578" duration="6189000" />
       <workItem from="1567699934919" duration="65000" />
       <workItem from="1567703621508" duration="3083000" />
-      <workItem from="1567749750623" duration="1274000" />
+      <workItem from="1567749750623" duration="2849000" />
     </task>
+    <task id="LOCAL-00001" summary="checking">
+      <created>1567752340815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567752340815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179232000" />
+    <option name="totallyTimeSpent" value="180807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15335868" />
+      <window_info active="true" id="npm" order="1" sideWeight="0.5013441" side_tool="true" visible="true" weight="0.15335868" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49865592" visible="true" weight="0.15335868" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="GraphQL" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3293011" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.4362745" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.43548387" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -373,6 +355,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checking" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/slogan.js">
@@ -630,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/navMenu.module.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -696,10 +675,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
